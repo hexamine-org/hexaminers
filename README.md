@@ -6,7 +6,7 @@ miners of HEXA
 
 To become a HEXA miner:
 
-1. submit a pull request with
+1. submit a pull request with (note: only signed commits are accepted)
    
    1. your SSH public key in `data/<your-id>/ssh`
    2. your PGP public key in `data/<your-id>/pgp`
